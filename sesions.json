@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ac39e4f8a206c536158012d"},"alumnos":[],"dia":"4 de abril","hora":"11","aula":"10","__v":0}
+{"_id":{"$oid":"5ac3a1ca265d76550e8b984a"},"alumnos":[{"$oid":"5ac38f75af38224a93f986ff"},{"$oid":"5ac38f96af38224a93f98700"}],"dia":"5 de abril","hora":"12","aula":"10","__v":0}
+{"_id":{"$oid":"5ac3a22a69971f5599c11013"},"alumnos":[{"$oid":"5ac38f75af38224a93f986ff"},{"$oid":"5ac38f96af38224a93f98700"}],"dia":"5 de abril","hora":"12","aula":"10","__v":0}

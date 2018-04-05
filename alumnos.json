@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5ac38f75af38224a93f986ff"},"nombre":"Manuel","apellidos":"Torres","email":"mtorres@ual.es","telefono":"676138602","fechaNacimiento":{"$date":"1979-01-10T00:00:00.000Z"},"__v":0}
+{"_id":{"$oid":"5ac38f96af38224a93f98700"},"nombre":"Antonio","apellidos":"Becerra","email":"abecerra@ual.es","telefono":"950123456","fechaNacimiento":{"$date":"1979-01-10T00:00:00.000Z"},"__v":0}
